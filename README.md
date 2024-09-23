@@ -1,8 +1,8 @@
-# L
+# l_
 
-The L repository is a **UNIX file system** inspired tree structure automator.
+The l_ repository is a **UNIX file system** inspired tree structure automator.
 
-With L it is possible to make boring structures look nice.
+With l_ it is possible to make boring structures look nice.
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ Title
 
 > To step higher into the hierarchy you continuously **add one space**.
 
-L was first published 281223 by Anton Simmerle.
+l_ was first published 281223 by Anton Simmerle.
 
 ## Requirements
 
@@ -60,11 +60,11 @@ L was first published 281223 by Anton Simmerle.
 
 ## Compatibility
 
-L uses only standard C libraries such as 'stdio.h' and 'stdlib.h', so it should be compatible with UNIX and non UNIX systems.
+l_ uses only standard C libraries such as 'stdio.h' and 'stdlib.h', so it should be compatible with UNIX and non UNIX systems.
 
 ## Limits
 
-L uses non-exponential dynamic memory allocation for the amount of nodes as well as the depth of the nodes, but falls back to fixed sized arrays for the length of the text of the node (1024 characters).
+l_ uses non-exponential dynamic memory allocation for the amount of nodes as well as the depth of the nodes, but falls back to fixed sized arrays for the length of the text of the node (1024 characters).
 
 ## Compilation
 
